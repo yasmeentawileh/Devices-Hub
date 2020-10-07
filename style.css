@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+   
+};
+header{
+     background-color: darkgray;
+    color: white;
+    text-align: center;
+};
+main{
+    background: url("background.jpg");
+};
+#form{
+    display: block;
+  
+}
+body{
+    background-image: url('background.jpg');
+}
+h1{
+    color:white;
+    background-color: darkgray;
+}
+main{
+    background-image: url('background.jpg');
+};
